@@ -56,3 +56,21 @@ Checkpoints are selected on the validation set; decoding uses beam size 3.
 Results
 ----------------------
 Prediction and reference files for each configuration are in results/predictions/, and per-epoch training logs are in results/metrics/, so the reported scores and the paired bootstrap significance analysis can be reproduced without retraining.
+
+
+Citation
+----------------------
+
+bibtex
+@article{morphgat,
+  title   = {MorphGAT: A Morphology-Aware Dual-Encoder Transformer for Turkish-to-English Neural Machine Translation},
+  author  = {Vuran Sarı, Nisa and Acı, Mehmet and İnan Acı, Çiğdem},
+  journal = {(under review)},
+  year    = {2026}
+}
+
+
+Contact
+----------------------
+
+Nisa Vuran Sarı — nisavuran@gmail.com — Department of Computer Engineering, Mersin University.
