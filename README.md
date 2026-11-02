@@ -73,4 +73,4 @@ bibtex
 Contact
 ----------------------
 
-Nisa Vuran Sarı — nisavuran@gmail.com — Department of Computer Engineering, Mersin University.
+Nisa Vuran Sarı — nvuran@mersin.edu.tr — Department of Computer Engineering, Mersin University.
