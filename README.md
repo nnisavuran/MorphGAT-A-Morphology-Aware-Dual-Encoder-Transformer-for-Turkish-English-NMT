@@ -27,7 +27,7 @@ Data
 The Turkish–English parallel corpus is derived from the Tatoeba project.
 Splits (train/val/test) and the morpheme vocabulary and BPE tokenizer are in data/.
 BPE and the morpheme vocabulary are learned only on the training split; morphological units unseen in training are mapped to <UNK>.
-
+https://drive.google.com/drive/u/0/folders/1-qHZA9aIcJ8IkpRfoaFaY-xPKGhJoNM2
 
 Reproducing the experiments
 ----------------------
